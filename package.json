@@ -1,0 +1,14 @@
+{
+  "name": "m3u-parser",
+  "version": "0.1.0",
+  "description": "A parser capable of reading the m3u extended format and outputting a JSON object.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "m3u"
+  ],
+  "author": "Charley Reeson <neon.fortytwo@gmail.com> (https://chazza.me/)",
+  "license": "MIT"
+}
